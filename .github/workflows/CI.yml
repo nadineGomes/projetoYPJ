@@ -1,4 +1,4 @@
-nome: Nadine YellowPink Joias
+name: Nadine YellowPink Joias
 on:
   push:
     branches:
