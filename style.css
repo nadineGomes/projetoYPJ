@@ -209,12 +209,6 @@ section h1{
     text-align: center;
 }
 
-.Marcas img{
-    width: 180px;
-    height: auto;
-    background-color: aliceblue;
-}
-
 #Contato{
     display: flex;
     gap: 5rem;
