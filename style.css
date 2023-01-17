@@ -9,7 +9,7 @@
 }
 
 
-.background2{
+.background{
     background-image: url(img/background2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,9 +30,9 @@ header{
     right: 0;
     z-index: 1000;
     position: fixed;
-    background2: transparent;
+    background: transparent;
     transition: all .35s ease;
-    background2-color: #fff;
+    background-color: #fff;
     padding: 14px 14%;
 }
 
